@@ -1,0 +1,2 @@
+C:\Users\Neha Adlakha\anaconda3\envs\myenv
+C:\Users\Neha Adlakha\anaconda3\envs\ml
