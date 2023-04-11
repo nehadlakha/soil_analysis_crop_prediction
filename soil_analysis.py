@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import pandas as pd
 
 #st.markdown("# SOIL ANALYSIS")
 
@@ -84,16 +85,20 @@ def soil_analytics():
             st.write('WATERMELON')
 
         st.header("  APPROPRIATE VALUES REQUIRED TO GROW THE GIVEN CROP  ")
+
+        df=pd.read_csv("average_recommendation.csv")
+        #col=crop
+        #st.table(df[col])
         if(crop == 'APPLE'):
             st.write(
-                'Sodium: 24 Phosphorus: 128 Potassium: 196  Temperature: 22.7508 Humidity: 90.6948 pH: 5.5214 Rainfall: 110.4317')
+                'Sodium: 20.8 Phosphorus: 134.22 Potassium: 199.89  Temperature: 22.6309424 Humidity: 92.3333829 pH: 5.92966293 Rainfall: 112.654779')
         elif(crop == 'BANANA'):
             st.write(
-                'Sodium: Phosphorus: Potassium: Temperature: Humidity: pH: Rainfall: ')
+                'Sodium: 100.23 Phosphorus: 82.01 Potassium: 50.05 Temperature: 27.3767983 Humidity: 80.3581226 pH: 5.98389318 Rainfall: 104.62698 ')
 
         elif(crop == 'BLACKGRAM'):
             st.write(
-                'Sodium: Phosphorus: Potassium: Temperature: Humidity: pH: Rainfall: ')
+                'Sodium: 40.02 Phosphorus: 67.47 Potassium: 19.24 Temperature: 29.97334 Humidity: pH: Rainfall: ')
         elif(crop == 'CHICKPEA'):
             st.write(
                 'Sodium: 40 Phosphorus: 77  Potassium: 17.1311  Temperature: 16.877   Humidity: 7.4859 pH: Rainfall: 88.5512 ')
