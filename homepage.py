@@ -9,7 +9,7 @@ import streamlit.components.v1 as components
 def landing_page():
     components.html(
         """
-        <h1>SOIL ANALYSIS AND CROP PREDICTION<h1>
+        <h1 style="margin-top:4rem;">SOIL ANALYSIS AND CROP PREDICTION<h1>
         
     """
     )
