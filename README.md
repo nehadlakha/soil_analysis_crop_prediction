@@ -17,6 +17,7 @@ The ‘Crop Recommendation’ dataset is collected from the Kaggle website. The 
     
     
   SOIL ANALYSIS :
+  
   Input--> 
   Here user will enter the values N,P,K content ratio in the soil, 
   temperature expressed in degree Celsius, percentage of Relative Humidity , pH value 
@@ -26,14 +27,18 @@ Output-->
 Our web application shows which crop is the most suitable crop to be grown according to
 the soil condition and also the nutrients and other required factors values for the 
 particular crop.
+
 IMAGE OF THE OUTPUT
 
 CROP PREDICTION : 
+
 Input-->
 Here user will enter the values N,P,K content ratio in the soil, 
   temperature expressed in degree Celsius, percentage of Relative Humidity , pH value 
 and rainfall measured in millimeters .
+  
   Output-->  
   Our web application shows which crop is the most suitable crop to be grown
+  
   IMAGE OF THE OUTPUT
   
