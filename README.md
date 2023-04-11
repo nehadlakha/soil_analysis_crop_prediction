@@ -1,7 +1,6 @@
 Soil Analysis and Crop Prediction using Machine Learning
-1. Data Collection
-    The ‘Crop Recommendation’ dataset is collected from the Kaggle website. The dataset takes into
-      account 22 different crops :
+1. Data Collection :
+The ‘Crop Recommendation’ dataset is collected from the Kaggle website. The dataset takes into account 22 different crops :
         1. Nitrogen content ratio (N)
         2. Phosphorus content ratio (P)
         3. Potassium content ratio (K) in the soil
@@ -9,7 +8,9 @@ Soil Analysis and Crop Prediction using Machine Learning
         5. Percentage of Relative Humidity
         6. pH value
         7. Rainfall measured in millimeters.
+        
 2.Data Processing using Machine Learning and creation of model
+
 3.Purpose :
     * Soil Analysis
     * Crop Prediction
