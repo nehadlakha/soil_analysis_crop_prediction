@@ -40,5 +40,10 @@ and rainfall measured in millimeters .
   Output-->  
   Our web application shows which crop is the most suitable crop to be grown
   
-  IMAGE OF THE OUTPUT
+  IMAGE OF THE UI
+![image](https://user-images.githubusercontent.com/85989068/231348414-853f0649-c44e-49eb-b470-4d1fc29f7523.png)
+![image](https://user-images.githubusercontent.com/85989068/231348442-7f694187-b51b-490c-9e79-10f9322d1bd4.png)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()  
   
