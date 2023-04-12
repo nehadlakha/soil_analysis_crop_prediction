@@ -1,4 +1,4 @@
-Soil Analysis and Crop Prediction using Machine Learning
+Soil Analysis and Crop Prediction using Machine Learning ( KRISHI-SUVIDHA )
 1. Data Collection :
 The ‘Crop Recommendation’ dataset is collected from the Kaggle website. The dataset takes into account 22 different crops :
         1. Nitrogen content ratio (N)
